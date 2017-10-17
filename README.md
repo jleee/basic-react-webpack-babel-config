@@ -3,8 +3,8 @@ The purpose of this repository is to setup a basic React app with Webpack and Ba
 
 ## See this simple app in action!
 ```
-$ git clone https://github.com/jleee/basic-react-webpack-babel-config.git
-$ cd basic-react-webpack-babel-config
-$ npm install
-$ npm run start
+git clone https://github.com/jleee/basic-react-webpack-babel-config.git
+cd basic-react-webpack-babel-config
+npm install
+npm run start
 ```
